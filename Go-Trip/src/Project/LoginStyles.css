@@ -1,0 +1,54 @@
+.loginback{ 
+ 
+    color:white;
+    background-color: #093545;
+    height: 100vh;
+    
+  }
+  .web-logo{
+     width: 200px;
+     margin-top: 5px;
+  }
+  .sign-in{
+    font-size: 64px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+  }
+  .header-intro{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 50px;
+    margin-bottom: 35px;
+  }
+  .email-box{
+      width: 240px;
+      height: 29px;
+      border: none;
+      background-color: rgba(226, 228, 230, 0.126);
+      border-radius: 8px;
+  }
+  .password-box{
+     width: 240px;
+     height: 29px;
+     border: none;
+     background-color: rgba(226, 228, 230, 0.126);
+     border-radius: 8px;
+     margin-top: 8px;
+  }
+  .login-box{
+    width: 240px;
+    height: 29px;
+    background-color: #20DF7F;
+    border: none;
+    border-radius: 8px;
+    margin-top: 30px;
+  }
+  ::placeholder{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    font-size: 13px;
+  }
+  .error{
+    margin: 0px;
+  }

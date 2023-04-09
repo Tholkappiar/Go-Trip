@@ -1,0 +1,22 @@
+.mallh{
+    width: 500px;
+    height:400px;
+    margin-top: 40px;
+    
+    
+}
+
+.align-places{
+   
+        display: flex;
+        flex-wrap: wrap;    
+        gap: 30px;
+        justify-content: center;
+        margin-top: 50px;
+
+
+}
+.button-flex{
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,46 @@
+.support-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.support2-div{
+    display: flex;
+    flex-direction: column;
+}
+.logo-img{
+    width: 200px;
+    margin-bottom: 30px;
+}
+.center{
+    background-color: #093545;
+    height: 100vh;
+}
+.align{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    color: white;
+    
+}
+.name-input{
+    height: 30px;
+    width: 250px;
+    margin-left: 20px;
+}
+.email-input{
+    height: 30px;
+    width: 250px;
+    margin-left: 22px;
+}
+.mess-input{
+    height: 100px;
+    width: 250px;
+    margin-left: 0px;
+}
+.submit-box{
+    margin-top: 40px;
+    margin-left: 150px;
+    width: 100px;
+}
+    

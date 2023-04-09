@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+.page-one.scroll{
+  
+    position:fixed ;
+    
+
+}
+.home-button{
+margin-right: 30px;
+font-family: 'Roboto Slab', serif;
+
+}
+.places-button{
+  margin-right: 30px;
+  font-family: 'Roboto Slab', serif;
+}
+.aboutus-button{
+  margin-right: 30px;
+}
+
+.support-button{
+  margin-right: 30px;
+}
+.logout{
+  margin-right: 30px;
+}
+.logo-size{
+  margin-left: 100px;
+  width: 35px;
+  height: auto;
+  background-color: white;
+}
+.gotrip-index{
+  font-family: 'Roboto Slab', serif;
+  font-size: 20px;
+}
+.full{
+  justify-content:  center;
+  font-family: 'Roboto Slab', serif;
+}
+.address{
+  width: 700px;
+  font-size:20px;
+  color: #000000;
+  font-family: 'Roboto Mono', monospace;
+
+
+}
+.place-name{
+  color: black;
+  font-weight:bold;
+  margin: 0px;
+  font-size:20px;
+  margin-left: 50px;
+  font-family:times;
+
+}
+.place-pic{
+  width: 300px;
+  border-radius: 10px;
+  margin-bottom:30px;
+  
+
+}
+.contact{
+  color: #000000;
+  font-family: 'Roboto Mono', monospace;
+  font-size:20px;
+}
+.container1{
+    margin-top: 10px;
+  }
+  .contain-box{
+    display: flex;
+    gap: 80px;
+    margin-left: 180px;
+    
+    
+  }
+  .bg-pic{
+    width: 1550px;
+    
+  }
+  .body-div{
+      width: 1300px;
+      height: 450px;
+      border: 1px solid black;
+      margin-right: 0px;
+  }
+  .bg-img{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 550px;
+    width: 100%;
+    border: none;
+    margin: 0px;
+    
+  }
+.place-list{
+ 
+  
+  background-size: cover;
+  background-repeat: no-repeat;
+ background-color: rgb(240, 236, 231);
+ margin-top: 60px;
+}
+.title{
+  font-family: 'Roboto Slab', serif;
+  font-size: 50px;
+  padding: 300px 40px;
+  color: rgb(255, 255, 255);
+  margin: 0px;
+}
+.scroll{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.payment-form{
+  margin-top: 80px;
+}
+.form-1{
+  display: flex;
+  justify-content: center;
+}
